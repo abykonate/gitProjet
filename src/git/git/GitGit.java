@@ -8,6 +8,7 @@ public class GitGit {
 		System.out.println("ma premiere demo git");
 		System.out.println("ma premiere demo git");
 		// TODO Auto-generated method stub
+		System.out.println("demo sur les branches");
 
 	}
 
